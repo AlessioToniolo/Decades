@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da26fb18-d0ea-49b7-b803-a5c28cf3cd61/deploy-status)](https://app.netlify.com/sites/14decades/deploys)
 # Decades
 Welcome to my Decades project! This was a school project that I opted to create
 using my programming skills and knowledge.
